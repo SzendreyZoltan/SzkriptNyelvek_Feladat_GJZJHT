@@ -1,0 +1,1 @@
+# SzkriptNyelvek_Feladat_GJZJHT
