@@ -1,3 +1,4 @@
+# Ez a második labor
 felhasznalo_neve = input('Kérem a nevet:')
 felhasznalo_kora = int(20)
 felhasznalo_kora *= 2
